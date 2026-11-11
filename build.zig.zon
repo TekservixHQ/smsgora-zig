@@ -1,6 +1,7 @@
 .{
     .name = .smsgora,
     .version = "1.0.0",
+    .fingerprint = 0x88329a4ea45a068d,
     .minimum_zig_version = "0.15.1",
     .dependencies = .{},
     .paths = .{
